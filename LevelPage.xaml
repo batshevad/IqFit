@@ -1,0 +1,194 @@
+﻿<Window x:Class="iq_project.LevelPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:iq_project"
+        mc:Ignorable="d"
+        Title="LevelPage" Height="400" Width="450">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="image/1.jpg"/>
+        </Grid.Background>
+
+        <Label BorderBrush="#FF0F0909" Content="                בחר רמת קושי&#xD;&#xA;                 מ-1 עד 12&#xD;&#xA; (בכל רמת קושי 10 שלבים) "  HorizontalAlignment="Left" Margin="19,0,0,0" VerticalAlignment="Top" Height="133" Width="395" FontFamily="Showcard Gothic" FontWeight="ExtraBlack" FontSize="30" ScrollViewer.HorizontalScrollBarVisibility="Visible" Cursor="IBeam">
+            <Label.Foreground>
+                <RadialGradientBrush>
+                    <RadialGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                            <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                            <RotateTransform Angle="-138.814" CenterY="0.5" CenterX="0.5"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadialGradientBrush.RelativeTransform>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFBB2EDA" Offset="0.043"/>
+                </RadialGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <WrapPanel>
+
+            <ListBox x:Name="LB" Height="37" Width="112" SelectionChanged="ListBox_SelectionChanged" >
+                <ListBoxItem Content="1-10" FontWeight="Bold" FontSize="22" Selected="ListBoxItem_Selected" Width="90" >
+
+                    <ListBoxItem.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCF18C6" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.48"/>
+                            <GradientStop Color="#FFCF18C6"/>
+                        </LinearGradientBrush>
+                    </ListBoxItem.Background>
+                </ListBoxItem>
+                <ListBoxItem Content="10-20" FontWeight="Bold" FontSize="22" Width="90" >
+
+                    <ListBoxItem.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCF18C6" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.48"/>
+                            <GradientStop Color="#FFCF18C6"/>
+                        </LinearGradientBrush>
+                    </ListBoxItem.Background>
+                </ListBoxItem>
+                <ListBoxItem Content="20-30" FontWeight="Bold" FontSize="22" >
+
+                    <ListBoxItem.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCF18C6" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.48"/>
+                            <GradientStop Color="#FFCF18C6"/>
+                        </LinearGradientBrush>
+                    </ListBoxItem.Background>
+                </ListBoxItem>
+                <ListBoxItem Content="30-40" FontWeight="Bold" FontSize="22" Width="90" >
+
+                    <ListBoxItem.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCF18C6" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.48"/>
+                            <GradientStop Color="#FFCF18C6"/>
+                        </LinearGradientBrush>
+                    </ListBoxItem.Background>
+                </ListBoxItem>
+                <ListBoxItem Content="40-50" FontWeight="Bold" FontSize="22" Width="90">
+
+                    <ListBoxItem.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCF18C6" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.48"/>
+                            <GradientStop Color="#FFCF18C6"/>
+                        </LinearGradientBrush>
+                    </ListBoxItem.Background>
+                </ListBoxItem>
+                <ListBoxItem Content="50-60" FontWeight="Bold" FontSize="22" Width="90">
+
+                    <ListBoxItem.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCF18C6" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.48"/>
+                            <GradientStop Color="#FFCF18C6"/>
+                        </LinearGradientBrush>
+                    </ListBoxItem.Background>
+                </ListBoxItem>
+                <ListBoxItem Content="60-70" FontWeight="Bold" FontSize="22" Width="90" >
+
+                    <ListBoxItem.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCF18C6" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.48"/>
+                            <GradientStop Color="#FFCF18C6"/>
+                        </LinearGradientBrush>
+                    </ListBoxItem.Background>
+                </ListBoxItem>
+                <ListBoxItem Content="70-80" FontWeight="Bold" FontSize="22" Width="90" >
+
+                    <ListBoxItem.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCF18C6" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.48"/>
+                            <GradientStop Color="#FFCF18C6"/>
+                        </LinearGradientBrush>
+                    </ListBoxItem.Background>
+                </ListBoxItem>
+                <ListBoxItem Content="80-90" FontWeight="Bold" FontSize="22" Width="90" >
+
+                    <ListBoxItem.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCF18C6" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.48"/>
+                            <GradientStop Color="#FFCF18C6"/>
+                        </LinearGradientBrush>
+                    </ListBoxItem.Background>
+                </ListBoxItem>
+                <ListBoxItem Content="90-100" FontWeight="Bold" FontSize="22" Width="90" >
+
+                    <ListBoxItem.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCF18C6" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.48"/>
+                            <GradientStop Color="#FFCF18C6"/>
+                        </LinearGradientBrush>
+                    </ListBoxItem.Background>
+                </ListBoxItem>
+                <ListBoxItem Content="100-110" FontWeight="Bold" FontSize="22" Width="90" >
+
+                    <ListBoxItem.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCF18C6" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.48"/>
+                            <GradientStop Color="#FFCF18C6"/>
+                        </LinearGradientBrush>
+                    </ListBoxItem.Background>
+                </ListBoxItem>
+                <ListBoxItem Content="110-120" FontWeight="Bold" FontSize="22" Width="90">
+
+                    <ListBoxItem.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCF18C6" Offset="1"/>
+                            <GradientStop Color="White" Offset="0.48"/>
+                            <GradientStop Color="#FFCF18C6"/>
+                        </LinearGradientBrush>
+                    </ListBoxItem.Background>
+                </ListBoxItem>
+            </ListBox>
+        </WrapPanel>
+
+        <Button Width="100" Content="i'm ready!"  
+      Height="100" RenderTransformOrigin="0.5,0.5" Margin="168,111,24,58" Click="Button_Click" FontWeight="Bold" FontSize="14" FontFamily="Showcard Gothic" >
+
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="3.262"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="2.85"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Stroke="Black"  
+                       StrokeThickness="2">
+                            <Ellipse.Fill>
+                                <RadialGradientBrush>
+                                    <GradientStop Color="Black" Offset="1"/>
+                                    <GradientStop Color="#FF391540" Offset="0.886"/>
+                                    <GradientStop Color="#FF561863" Offset="0.762"/>
+                                    <GradientStop Color="#FF681B78" Offset="0.644"/>
+                                    <GradientStop Color="#FF87209C" Offset="0.53"/>
+                                    <GradientStop Color="#FFA42ABD" Offset="0.388"/>
+                                    <GradientStop Color="#FFBD37D8" Offset="0.27"/>
+                                </RadialGradientBrush>
+                            </Ellipse.Fill>
+
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center"  
+                                VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+
+    </Grid>
+</Window>

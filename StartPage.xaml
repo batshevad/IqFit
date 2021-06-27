@@ -1,0 +1,67 @@
+﻿<Window x:Class="iq_project.StartPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:iq_project"
+        mc:Ignorable="d" Width="772" Height="402" >
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="image/1.jpg"/>
+        </Grid.Background>
+        <Button  Content="start"   Click="Button_Click"  FontWeight="ExtraBlack" FontSize="70" Margin="85,54,52,96">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Stroke="Black"
+                         StrokeThickness="5">
+                            <Ellipse.Fill>
+                                <RadialGradientBrush>
+                                    <GradientStop Color="#FF0A0000" Offset="1"/>
+                                    <GradientStop Color="#FF6E0715" Offset="0.925"/>
+                                    <GradientStop Color="#FF991414" Offset="0.833"/>
+                                    <GradientStop Color="#FFC31B1B" Offset="0.754"/>
+                                    <GradientStop Color="#FFD83333" Offset="0.658"/>
+                                    <GradientStop Color="#FFE65353" Offset="0.577"/>
+                                    <GradientStop Color="#FFE67676" Offset="0.459"/>
+                                    <GradientStop Color="#FFEE8E8E" Offset="0.349"/>
+                                </RadialGradientBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Content="instruction" FontWeight="ExtraBlack" FontSize="50" Click="Button_Click_1" Margin="53,54,79,96" Grid.Column="1" >
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Stroke="Black"
+                         StrokeThickness="5">
+                            <Ellipse.Fill>
+                                <RadialGradientBrush>
+                                    <GradientStop Color="#FF07021F" Offset="1"/>
+                                    <GradientStop Color="#FF0E0A3E" Offset="0.911"/>
+                                    <GradientStop Color="#FF0F095B" Offset="0.833"/>
+                                    <GradientStop Color="#FF1B1381" Offset="0.73"/>
+                                    <GradientStop Color="#FF211897" Offset="0.601"/>
+                                    <GradientStop Color="#FF382DC3" Offset="0.466"/>
+                                    <GradientStop Color="#FF3B4AE0" Offset="0.342"/>
+                                </RadialGradientBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+    </Grid>
+</Window>

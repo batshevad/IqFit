@@ -1,0 +1,27 @@
+﻿<Window x:Class="iq_project.recordsTable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:iq_project"
+        mc:Ignorable="d"
+        Title="recordsTable" Height="450" Width="800">
+    <Grid >
+        <Canvas x:Name="canvas">
+            <Canvas.Background>
+                <ImageBrush ImageSource="image/1.jpg"/>
+            </Canvas.Background>
+        </Canvas>
+        <DataGrid Name="recordsGrid" HorizontalAlignment="Left" Height="419" Margin="331,0,0,0" VerticalAlignment="Top" Width="156" >
+            <DataGrid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF9EF5F5" Offset="0"/>
+                    <GradientStop Color="#FF593101" Offset="1"/>
+                    <GradientStop Color="#FFDFA641" Offset="0.786"/>
+                    <GradientStop Color="#FFDACF5E" Offset="0.662"/>
+                </LinearGradientBrush>
+            </DataGrid.Background>
+        </DataGrid>
+
+    </Grid>
+</Window>

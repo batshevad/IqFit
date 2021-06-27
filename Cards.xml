@@ -1,0 +1,1497 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cards>
+  <card number="1">
+    <part number="4" directionNum="2" place="00"></part>
+    <part number="3" directionNum="5" place="40"></part>
+    <part number="1" directionNum="5" place="80"></part>
+    <part number="6" directionNum="2" place="02"></part>
+    <part number="10" directionNum="2" place="41"></part>
+    <part number="2" directionNum="7" place="52"></part>
+    <part number="5" directionNum="5" place="03"></part>
+  </card>
+  <card number="2">
+    <part number="1" directionNum="8" place="00"></part>
+    <part number="2" directionNum="1" place="10"></part>
+    <part number="10" directionNum="3" place="40"></part>
+    <part number="4" directionNum="5" place="02"></part>
+    <part number="9" directionNum="1" place="31"></part>
+    <part number="3" directionNum="3" place="52"></part>
+    <part number="7" directionNum="8" place="43"></part>
+    <part number="6" directionNum="6" place="82"></part>
+  </card>
+  <card number="3">
+    <part number="1" directionNum="5" place="11"></part>
+    <part number="3" directionNum="3" place="03"></part>
+    <part number="8" directionNum="7" place="50"></part>
+    <part number="7" directionNum="1" place="51"></part>
+    <part number="6" directionNum="3" place="32"></part>
+    <part number="4" directionNum="5" place="43"></part>
+    <part number="9" directionNum="4" place="80"></part>
+    <part number="2" directionNum="3" place="73"></part>
+  </card>
+  <card number="4">
+    <part number="7" directionNum="6" place="00"></part>
+    <part number="2" directionNum="3" place="40"></part>
+    <part number="3" directionNum="1" place="60"></part>
+    <part number="10" directionNum="2" place="01"></part>
+    <part number="6" directionNum="8" place="11"></part>
+    <part number="5" directionNum="7" place="22"></part>
+    <part number="4" directionNum="5" place="23"></part>
+    <part number="1" directionNum="3" place="62"></part>
+  </card>
+  <card number="5">
+    <part number="10" directionNum="3" place="00"></part>
+    <part number="9" directionNum="3" place="40"></part>
+    <part number="8" directionNum="3" place="60"></part>
+    <part number="1" directionNum="1" place="31"></part>
+    <part number="3" directionNum="7" place="52"></part>
+    <part number="5" directionNum="1" place="03"></part>
+    <part number="7" directionNum="8" place="43"></part>
+    <part number="4" directionNum="1" place="82"></part>
+  </card>
+  <card number="6">
+    <part number="10" directionNum="3" place="00"></part>
+    <part number="6" directionNum="3" place="01"></part>
+    <part number="2" directionNum="3" place="03"></part>
+    <part number="4" directionNum="1" place="21"></part>
+    <part number="7" directionNum="7" place="31"></part>
+    <part number="3" directionNum="4" place="51"></part>
+    <part number="9" directionNum="1" place="63"></part>
+    <part number="1" directionNum="5" place="70"></part>
+  </card>
+  <card number="7">
+    <part number="10" directionNum="7" place="00"></part>
+    <part number="3" directionNum="5" place="23"></part>
+    <part number="7" directionNum="1" place="11"></part>
+    <part number="8" directionNum="3" place="03"></part>
+    <part number="1" directionNum="1" place="42"></part>
+    <part number="5" directionNum="1" place="43"></part>
+    <part number="9" directionNum="4" place="80"></part>
+  </card>
+  <card number="8">
+    <part number="6" directionNum="1" place="00"></part>
+    <part number="3" directionNum="4" place="01"></part>
+    <part number="4" directionNum="1" place="12"></part>
+    <part number="7" directionNum="5" place="40"></part>
+    <part number="8" directionNum="3" place="33"></part>
+    <part number="2" directionNum="7" place="73"></part>
+    <part number="10" directionNum="8" place="80"></part>
+  </card>
+  <card number="9">
+    <part number="9" directionNum="5" place="01"></part>
+    <part number="4" directionNum="6" place="30"></part>
+    <part number="5" directionNum="3" place="40"></part>
+    <part number="8" directionNum="7" place="51"></part>
+    <part number="7" directionNum="1" place="52"></part>
+    <part number="3" directionNum="7" place="23"></part>
+    <part number="10" directionNum="1" place="63"></part>
+  </card>
+  <card number="10">
+    <part number="1" directionNum="2" place="02"></part>
+    <part number="5" directionNum="7" place="12"></part>
+    <part number="3" directionNum="3" place="13"></part>
+    <part number="9" directionNum="2" place="51"></part>
+    <part number="4" directionNum="1" place="62"></part>
+    <part number="6" directionNum="1" place="71"></part>
+    <part number="2" directionNum="2" place="82"></part>
+  </card>
+  <card number="11">
+    <part number="5" directionNum="7" place="00"></part>
+    <part number="8" directionNum="4" place="01"></part>
+    <part number="6" directionNum="3" place="11"></part>
+    <part number="7" directionNum="7" place="30"></part>
+    <part number="4" directionNum="6" place="50"></part>
+    <part number="2" directionNum="6" place="61"></part>
+    <part number="1" directionNum="4" place="81"></part>
+  </card>
+  <card number="12">
+    <part number="3" directionNum="5" place="10"></part>
+    <part number="5" directionNum="7" place="12"></part>
+    <part number="6" directionNum="2" place="40"></part>
+    <part number="1" directionNum="1" place="43"></part>
+    <part number="8" directionNum="6" place="01"></part>
+    <part number="4" directionNum="1" place="70"></part>
+    <part number="7" directionNum="7" place="80"></part>
+  </card>
+  <card number="13">
+    <part number="5" directionNum="3" place="20"></part>
+    <part number="10" directionNum="3" place="31"></part>
+    <part number="8" directionNum="1" place="42"></part>
+    <part number="7" directionNum="8" place="33"></part>
+    <part number="2" directionNum="1" place="63"></part>
+    <part number="3" directionNum="5" place="60"></part>
+    <part number="9" directionNum="4" place="81"></part>
+  </card>
+  <card number="14">
+    <part number="1" directionNum="3" place="00"></part>
+    <part number="7" directionNum="6" place="30"></part>
+    <part number="8" directionNum="1" place="21"></part>
+    <part number="3" directionNum="1" place="13"></part>
+    <part number="6" directionNum="1" place="42"></part>
+    <part number="2" directionNum="2" place="80"></part>
+  </card>
+  <card number="15">
+    <part number="5" directionNum="7" place="00"></part>
+    <part number="9" directionNum="2" place="01"></part>
+    <part number="3" directionNum="7" place="13"></part>
+    <part number="8" directionNum="5" place="11"></part>
+    <part number="10" directionNum="3" place="40"></part>
+    <part number="2" directionNum="6" place="41"></part>
+    <part number="4" directionNum="2" place="72"></part>
+  </card>
+  <card number="16">
+    <part number="9" directionNum="3" place="00"></part>
+    <part number="3" directionNum="4" place="01"></part>
+    <part number="2" directionNum="1" place="40"></part>
+    <part number="4" directionNum="6" place="41"></part>
+    <part number="7" directionNum="2" place="70"></part>
+    <part number="8" directionNum="8" place="80"></part>
+    <part number="1" directionNum="1" place="73"></part>
+  </card>
+  <card number="17">
+    <part number="9" directionNum="5" place="00"></part>
+    <part number="10" directionNum="1" place="03"></part>
+    <part number="7" directionNum="3" place="10"></part>
+    <part number="6" directionNum="2" place="11"></part>
+    <part number="2" directionNum="7" place="43"></part>
+    <part number="5" directionNum="3" place="50"></part>
+    <part number="1" directionNum="1" place="73"></part>
+  </card>
+  <card number="18">
+    <part number="8" directionNum="7" place="00"></part>
+    <part number="1" directionNum="1" place="13"></part>
+    <part number="4" directionNum="5" place="43"></part>
+    <part number="6" directionNum="3" place="30"></part>
+    <part number="3" directionNum="5" place="50"></part>
+    <part number="9" directionNum="4" place="80"></part>
+    <part number="2" directionNum="7" place="73"></part>
+  </card>
+  <card number="19">
+    <part number="1" directionNum="3" place="00"></part>
+    <part number="2" directionNum="3" place="30"></part>
+    <part number="6" directionNum="3" place="50"></part>
+    <part number="4" directionNum="1" place="71"></part>
+    <part number="3" directionNum="3" place="23"></part>
+    <part number="7" directionNum="8" place="63"></part>
+  </card>
+  <card number="20">
+    <part number="4" directionNum="6" place="00"></part>
+    <part number="1" directionNum="8" place="21"></part>
+    <part number="2" directionNum="8" place="50"></part>
+    <part number="8" directionNum="8" place="61"></part>
+    <part number="6" directionNum="3" place="83"></part>
+    <part number="5" directionNum="4" place="80"></part>
+  </card>
+  <card number="21">
+    <part number="1" directionNum="2" place="21"></part>
+    <part number="5" directionNum="1" place="03"></part>
+    <part number="6" directionNum="3" place="53"></part>
+    <part number="2" directionNum="1" place="73"></part>
+    <part number="10" directionNum="3" place="50"></part>
+    <part number="4" directionNum="5" place="70"></part>
+  </card>
+  <card number="22">
+    <part number="1" directionNum="3" place="02"></part>
+    <part number="6" directionNum="7" place="03"></part>
+    <part number="4" directionNum="6" place="32"></part>
+    <part number="3" directionNum="3" place="53"></part>
+    <part number="5" directionNum="6" place="51"></part>
+    <part number="10" directionNum="3" place="60"></part>
+  </card>
+  <card number="23">
+    <part number="7" directionNum="8" place="03"></part>
+    <part number="10" directionNum="6" place="22"></part>
+    <part number="5" directionNum="1" place="43"></part>
+    <part number="6" directionNum="4" place="61"></part>
+    <part number="8" directionNum="6" place="50"></part>
+    <part number="3" directionNum="2" place="80"></part>
+  </card>
+  <card number="24">
+    <part number="5" directionNum="3" place="20"></part>
+    <part number="10" directionNum="4" place="31"></part>
+    <part number="6" directionNum="4" place="51"></part>
+    <part number="3" directionNum="7" place="53"></part>
+    <part number="2" directionNum="8" place="80"></part>
+    <part number="8" directionNum="8" place="81"></part>
+  </card>
+  <card number="25">
+    <part number="1" directionNum="8" place="00"></part>
+    <part number="7" directionNum="1" place="03"></part>
+    <part number="8" directionNum="3" place="33"></part>
+    <part number="4" directionNum="1" place="40"></part>
+    <part number="8" directionNum="3" place="53"></part>
+    <part number="5" directionNum="4" place="81"></part>
+  </card>
+  <card number="26">
+    <part number="10" directionNum="2" place="00"></part>
+    <part number="2" directionNum="3" place="10"></part>
+    <part number="3" directionNum="3" place="03"></part>
+    <part number="4" directionNum="1" place="52"></part>
+    <part number="1" directionNum="3" place="70"></part>
+    <part number="8" directionNum="8" place="81"></part>
+  </card>
+  <card number="27">
+    <part number="8" directionNum="1" place="00"></part>
+    <part number="1" directionNum="1" place="03"></part>
+    <part number="7" directionNum="4" place="41"></part>
+    <part number="8" directionNum="2" place="61"></part>
+    <part number="6" directionNum="6" place="72"></part>
+    <part number="5" directionNum="4" place="81"></part>
+  </card>
+  <card number="28">
+    <part number="8" directionNum="3" place="11"></part>
+    <part number="6" directionNum="3" place="03"></part>
+    <part number="9" directionNum="3" place="23"></part>
+    <part number="4" directionNum="5" place="44"></part>
+    <part number="2" directionNum="2" place="50"></part>
+    <part number="5" directionNum="8" place="81"></part>
+  </card>
+  <card number="29">
+    <part number="2" directionNum="5" place="00"></part>
+    <part number="8" directionNum="6" place="31"></part>
+    <part number="7" directionNum="4" place="41"></part>
+    <part number="9" directionNum="3" place="30"></part>
+    <part number="6" directionNum="3" place="60"></part>
+    <part number="10" directionNum="4" place="80"></part>
+  </card>
+  <card number="30">
+    <part number="3" directionNum="1" place="00"></part>
+    <part number="8" directionNum="4" place="01"></part>
+    <part number="5" directionNum="2" place="40"></part>
+    <part number="6" directionNum="6" place="52"></part>
+    <part number="7" directionNum="3" place="60"></part>
+    <part number="1" directionNum="1" place="73"></part>
+  </card>
+  <card number="31">
+    <part number="3" directionNum="1" place="00"></part>
+    <part number="8" directionNum="4" place="01"></part>
+    <part number="7" directionNum="1" place="23"></part>
+    <part number="2" directionNum="7" place="63"></part>
+    <part number="5" directionNum="3" place="60"></part>
+    <part number="8" directionNum="7" place="81"></part>
+  </card>
+  <card number="32">
+    <part number="4" directionNum="6" place="02"></part>
+    <part number="1" directionNum="8" place="31"></part>
+    <part number="7" directionNum="3" place="20"></part>
+    <part number="3" directionNum="1" place="60"></part>
+    <part number="6" directionNum="6" place="72"></part>
+    <part number="5" directionNum="4" place="81"></part>
+  </card>
+  <card number="33">
+    <part number="2" directionNum="1" place="00"></part>
+    <part number="6" directionNum="5" place="12"></part>
+    <part number="5" directionNum="3" place="30"></part>
+    <part number="1" directionNum="2" place="41"></part>
+    <part number="3" directionNum="3" place="63"></part>
+    <part number="8" directionNum="2" place="80"></part>
+  </card>
+  <card number="34">
+    <part number="9" directionNum="2" place="00"></part>
+    <part number="6" directionNum="3" place="03"></part>
+    <part number="2" directionNum="1" place="23"></part>
+    <part number="3" directionNum="5" place="60"></part>
+    <part number="10" directionNum="1" place="61"></part>
+    <part number="4" directionNum="5" place="63"></part>
+  </card>
+  <card number="35">
+    <part number="5" directionNum="2" place="00"></part>
+    <part number="9" directionNum="1" place="03"></part>
+    <part number="2" directionNum="1" place="33"></part>
+    <part number="1" directionNum="4" place="40"></part>
+    <part number="10" directionNum="1" place="63"></part>
+    <part number="4" directionNum="1" place="80"></part>
+  </card>
+  <card number="36">
+    <part number="2" directionNum="1" place="00"></part>
+    <part number="9" directionNum="2" place="01"></part>
+    <part number="1" directionNum="1" place="33"></part>
+    <part number="6" directionNum="4" place="51"></part>
+    <part number="10" directionNum="2" place="81"></part>
+  </card>
+  <card number="37">
+    <part number="10" directionNum="3" place="00"></part>
+    <part number="8" directionNum="5" place="03"></part>
+    <part number="1" directionNum="3" place="33"></part>
+    <part number="2" directionNum="1" place="40"></part>
+    <part number="6" directionNum="2" place="82"></part>
+  </card>
+  <card number="38">
+    <part number="7" directionNum="6" place="00"></part>
+    <part number="8" directionNum="4" place="01"></part>
+    <part number="10" directionNum="1" place="23"></part>
+    <part number="1" directionNum="6" place="40"></part>
+    <part number="3" directionNum="4" place="61"></part>
+  </card>
+  <card number="39">
+    <part number="5" directionNum="7" place="00"></part>
+    <part number="6" directionNum="8" place="50"></part>
+    <part number="8" directionNum="3" place="03"></part>
+    <part number="3" directionNum="3" place="43"></part>
+    <part number="2" directionNum="6" place="82"></part>
+  </card>
+  <card number="40">
+    <part number="9" directionNum="3" place="00"></part>
+    <part number="6" directionNum="5" place="21"></part>
+    <part number="10" directionNum="4" place="40"></part>
+    <part number="2" directionNum="4" place="61"></part>
+    <part number="7" directionNum="3" place="60"></part>
+  </card>
+  <card number="41">
+    <part number="4" directionNum="6" place="00"></part>
+    <part number="3" directionNum="3" place="23"></part>
+    <part number="6" directionNum="8" place="30"></part>
+    <part number="10" directionNum="2" place="61"></part>
+    <part number="7" directionNum="4" place="81"></part>
+  </card>
+  <card number="42">
+    <part number="1" directionNum="1" place="03"></part>
+    <part number="6" directionNum="4" place="32"></part>
+    <part number="5" directionNum="7" place="42"></part>
+    <part number="4" directionNum="5" place="50"></part>
+    <part number="2" directionNum="8" place="80"></part>
+  </card>
+  <card number="43">
+    <part number="6" directionNum="1" place="00"></part>
+    <part number="8" directionNum="4" place="01"></part>
+    <part number="3" directionNum="7" place="33"></part>
+    <part number="10" directionNum="3" place="30"></part>
+    <part number="7" directionNum="6" place="41"></part>
+  </card>
+  <card number="44">
+    <part number="2" directionNum="8" place="00"></part>
+    <part number="9" directionNum="3" place="20"></part>
+    <part number="1" directionNum="5" place="31"></part>
+    <part number="10" directionNum="3" place="60"></part>
+    <part number="8" directionNum="2" place="81"></part>
+  </card>
+  <card number="45">
+    <part number="7" directionNum="2" place="00"></part>
+    <part number="5" directionNum="3" place="30"></part>
+    <part number="8" directionNum="3" place="23"></part>
+    <part number="6" directionNum="8" place="70"></part>
+    <part number="3" directionNum="2" place="80"></part>
+  </card>
+  <card number="46">
+    <part number="9" directionNum="1" place="20"></part>
+    <part number="7" directionNum="3" place="22"></part>
+    <part number="10" directionNum="4" place="50"></part>
+    <part number="3" directionNum="8" place="70"></part>
+  </card>
+  <card number="47">
+    <part number="3" directionNum="6" place="11"></part>
+    <part number="7" directionNum="1" place="41"></part>
+    <part number="9" directionNum="3" place="43"></part>
+    <part number="5" directionNum="1" place="63"></part>
+  </card>
+  <card number="48">
+    <part number="9" directionNum="2" place="00"></part>
+    <part number="8" directionNum="7" place="32"></part>
+    <part number="7" directionNum="6" place="60"></part>
+    <part number="1" directionNum="6" place="82"></part>
+  </card>
+  <card number="49">
+    <part number="7" directionNum="8" place="01"></part>
+    <part number="5" directionNum="2" place="41"></part>
+    <part number="1" directionNum="2" place="81"></part>
+  </card>
+  <card number="50">
+    <part number="4" directionNum="6" place="00"></part>
+    <part number="6" directionNum="5" place="22"></part>
+    <part number="5" directionNum="3" place="52"></part>
+    <part number="9" directionNum="3" place="60"></part>
+  </card>
+  <card number="51">
+    <part number="4" directionNum="6" place="00"></part>
+    <part number="6" directionNum="1" place="32"></part>
+    <part number="3" directionNum="5" place="60"></part>
+    <part number="5" directionNum="3" place="10"></part>
+  </card>
+  <card number="52">
+    <part number="7" directionNum="8" place="01"></part>
+    <part number="5" directionNum="3" place="41"></part>
+    <part number="1" directionNum="6" place="52"></part>
+  </card>
+  <card number="53">
+    <part number="4" directionNum="6" place="00"></part>
+    <part number="6" directionNum="1" place="30"></part>
+    <part number="3" directionNum="7" place="43"></part>
+    <part number="10" directionNum="4" place="80"></part>
+  </card>
+  <card number="54">
+    <part number="1" directionNum="2" place="00"></part>
+    <part number="8" directionNum="1" place="03"></part>
+    <part number="9" directionNum="1" place="23"></part>
+    <part number="10" directionNum="1" place="63"></part>
+    <part number="7" directionNum="1" place="52"></part>
+    <part number="4" directionNum="1" place="80"></part>
+  </card>
+  <card number="55">
+    <part number="5" directionNum="8" place="11"></part>
+    <part number="7" directionNum="4" place="41"></part>
+    <part number="9" directionNum="4" place="81"></part>
+    <part number="10" directionNum="1" place="53"></part>
+  </card>
+  <card number="56">
+    <part number="3" directionNum="8" place="01"></part>
+    <part number="4" directionNum="6" place="42"></part>
+    <part number="1" directionNum="7" place="61"></part>
+    <part number="5" directionNum="1" place="63"></part>
+  </card>
+  <card number="57">
+    <part number="8" directionNum="3" place="13"></part>
+    <part number="4" directionNum="6" place="52"></part>
+    <part number="1" directionNum="1" place="73"></part>
+  </card>
+  <card number="58">
+    <part number="6" directionNum="3" place="11"></part>
+    <part number="1" directionNum="4" place="42"></part>
+    <part number="9" directionNum="1" place="43"></part>
+    <part number="2" directionNum="6" place="82"></part>
+  </card>
+  <card number="59">
+    <part number="7" directionNum="1" place="33"></part>
+    <part number="3" directionNum="1" place="42"></part>
+    <part number="10" directionNum="3" place="31"></part>
+  </card>
+  <card number="60">
+    <part number="6" directionNum="8" place="21"></part>
+    <part number="1" directionNum="4" place="31"></part>
+    <part number="3" directionNum="3" place="61"></part>
+  </card>
+  <card number="61">
+    <part number="2" directionNum="5" place="41"></part>
+    <part number="6" directionNum="3" place="11"></part>
+    <part number="5" directionNum="1" place="63"></part>
+  </card>
+  <card number="62">
+    <part number="2" directionNum="7" place="11"></part>
+    <part number="7" directionNum="5" place="41"></part>
+    <part number="3" directionNum="1" place="52"></part>
+  </card>
+  <card number="63">
+    <part number="2" directionNum="6" place="22"></part>
+    <part number="4" directionNum="5" place="43"></part>
+    <part number="6" directionNum="6" place="82"></part>
+  </card>
+  <card number="64">
+    <part number="2" directionNum="4" place="71"></part>
+    <part number="6" directionNum="4" place="02"></part>
+    <part number="1" directionNum="6" place="00"></part>
+    <part number="10" directionNum="4" place="80"></part>
+    <part number="3" directionNum="3" place="63"></part>
+  </card>
+  <card number="65">
+    <part number="1" directionNum="8" place="00"></part>
+    <part number="8" directionNum="7" place="10"></part>
+    <part number="3" directionNum="2" place="32"></part>
+    <part number="6" directionNum="7" place="61"></part>
+  </card>
+  <card number="66">
+    <part number="1" directionNum="5" place="03"></part>
+    <part number="9" directionNum="3" place="11"></part>
+    <part number="4" directionNum="5" place="41"></part>
+  </card>
+  <card number="67">
+    <part number="9" directionNum="8" place="11"></part>
+    <part number="10" directionNum="3" place="52"></part>
+    <part number="5" directionNum="4" place="81"></part>
+  </card>
+  <card number="68">
+    <part number="2" directionNum="7" place="33"></part>
+    <part number="3" directionNum="1" place="32"></part>
+    <part number="1" directionNum="3" place="53"></part>
+  </card>
+  <card number="69">
+    <part number="7" directionNum="5" place="01"></part>
+    <part number="2" directionNum="6" place="80"></part>
+  </card>
+  <card number="70">
+    <part number="2" directionNum="7" place="03"></part>
+    <part number="6" directionNum="4" place="32"></part>
+    <part number="3" directionNum="7" place="53"></part>
+  </card>
+  <card number="71">
+    <part number="6" directionNum="3" place="42"></part>
+    <part number="2" directionNum="8" place="71"></part>
+    <part number="5" directionNum="1" place="53"></part>
+    <part number="4" directionNum="8" place="82"></part>
+  </card>
+  <card number="72">
+    <part number="10" directionNum="6" place="11"></part>
+    <part number="5" directionNum="1" place="43"></part>
+    <part number="1" directionNum="8" place="82"></part>
+  </card>
+  <card number="73">
+    <part number="6" directionNum="3" place="11"></part>
+    <part number="8" directionNum="5" place="13"></part>
+    <part number="3" directionNum="7" place="53"></part>
+  </card>
+  <card number="74">
+    <part number="2" directionNum="2" place="21"></part>
+    <part number="3" directionNum="3" place="53"></part>
+    <part number="5" directionNum="4" place="81"></part>
+  </card>
+  <card number="75">
+    <part number="1" directionNum="1" place="73"></part>
+    <part number="8" directionNum="8" place="80"></part>
+    <part number="2" directionNum="7" place="41"></part>
+    <part number="6" directionNum="3" place="03"></part>
+  </card>
+  <card number="76">
+    <part number="4" directionNum="6" place="00"></part>
+    <part number="1" directionNum="8" place="51"></part>
+    <part number="8" directionNum="2" place="03"></part>
+    <part number="5" directionNum="4" place="80"></part>
+  </card>
+  <card number="77">
+    <part number="1" directionNum="7" place="23"></part>
+    <part number="5" directionNum="2" place="01"></part>
+    <part number="2" directionNum="6" place="52"></part>
+    <part number="6" directionNum="4" place="71"></part>
+  </card>
+  <card number="78">
+    <part number="1" directionNum="6" place="00"></part>
+    <part number="9" directionNum="6" place="20"></part>
+    <part number="7" directionNum="5" place="60"></part>
+    <part number="10" directionNum="4" place="80"></part>
+  </card>
+  <card number="79">
+    <part number="4" directionNum="5" place="33"></part>
+    <part number="2" directionNum="3" place="03"></part>
+    <part number="6" directionNum="3" place="02"></part>
+  </card>
+  <card number="80">
+    <part number="8" directionNum="7" place="12"></part>
+    <part number="4" directionNum="6" place="51"></part>
+    <part number="6" directionNum="3" place="61"></part>
+  </card>
+  <card number="81">
+    <part number="3" directionNum="5" place="22"></part>
+    <part number="10" directionNum="6" place="23"></part>
+    <part number="8" directionNum="8" place="80"></part>
+  </card>
+  <card number="82">
+    <part number="5" directionNum="8" place="20"></part>
+    <part number="10" directionNum="5" place="42"></part>
+  </card>
+  <card number="83">
+    <part number="3" directionNum="1" place="50"></part>
+    <part number="2" directionNum="1" place="42"></part>
+  </card>
+  <card number="84">
+    <part number="1" directionNum="3" place="21"></part>
+    <part number="7" directionNum="1" place="03"></part>
+    <part number="8" directionNum="5" place="63"></part>
+  </card>
+  <card number="85">
+    <part number="5" directionNum="8" place="41"></part>
+    <part number="10" directionNum="2" place="51"></part>
+    <part number="6" directionNum="4" place="61"></part>
+  </card>
+  <card number="86">
+    <part number="6" directionNum="3" place="22"></part>
+    <part number="1" directionNum="3" place="30"></part>
+  </card>
+  <card number="87">
+    <part number="6" directionNum="3" place="03"></part>
+    <part number="3" directionNum="1" place="23"></part>
+    <part number="7" directionNum="8" place="41"></part>
+  </card>
+  <card number="88">
+    <part number="1" directionNum="3" place="12"></part>
+    <part number="2" directionNum="3" place="03"></part>
+    <part number="7" directionNum="1" place="33"></part>
+  </card>
+  <card number="89">
+    <part number="6" directionNum="3" place="03"></part>
+    <part number="2" directionNum="7" place="43"></part>
+    <part number="4" directionNum="5" place="73"></part>
+  </card>
+  <card number="90">
+    <part number="7" directionNum="5" place="00"></part>
+    <part number="4" directionNum="1" place="71"></part>
+  </card>
+  <card number="91">
+    <part number="10" directionNum="6" place="33"></part>
+    <part number="6" directionNum="1" place="62"></part>
+    <part number="1" directionNum="5" place="73"></part>
+  </card>
+  <card number="92">
+    <part number="6" directionNum="2" place="11"></part>
+    <part number="1" directionNum="4" place="50"></part>
+  </card>
+  <card number="93">
+    <part number="6" directionNum="8" place="31"></part>
+    <part number="9" directionNum="4" place="50"></part>
+  </card>
+  <card number="94">
+    <part number="9" directionNum="3" place="10"></part>
+    <part number="5" directionNum="1" place="42"></part>
+  </card>
+  <card number="95">
+    <part number="7" directionNum="5" place="30"></part>
+    <part number="1" directionNum="7" place="41"></part>
+  </card>
+  <card number="96">
+    <part number="6" directionNum="1" place="21"></part>
+    <part number="7" directionNum="8" place="03"></part>
+    <part number="1" directionNum="4" place="71"></part>
+  </card>
+  <card number="97">
+    <part number="4" directionNum="6" place="41"></part>
+    <part number="1" directionNum="1" place="61"></part>
+  </card>
+  <card number="98">
+    <part number="2" directionNum="5" place="22"></part>
+    <part number="3" directionNum="4" place="50"></part>
+  </card>
+  <card number="99">
+    <part number="4" directionNum="6" place="02"></part>
+    <part number="3" directionNum="3" place="33"></part>
+    <part number="1" directionNum="5" place="7"></part>
+  </card>
+  <card number="100">
+    <part number="9" directionNum="2" place="01"></part>
+    <part number="1" directionNum="1" place="13"></part>
+    <part number="6" directionNum="3" place="73"></part>
+  </card>
+  <card number="101">
+    <part number="8" directionNum="5" place="30"></part>
+    <part number="5" directionNum="1" place="33"></part>
+  </card>
+  <card number="102">
+    <part number="4" directionNum="5" place="21"></part>
+    <part number="1" directionNum="7" place="52"></part>
+  </card>
+  <card number="103">
+    <part number="7" directionNum="1" place="10"></part>
+    <part number="10" directionNum="6" place="63"></part>
+  </card>
+  <card number="104">
+    <part number="7" directionNum="8" place="11"></part>
+    <part number="6" directionNum="3" place="42"></part>
+  </card>
+  <card number="105">
+    <part number="7" directionNum="8" place="31"></part>
+    <part number="6" directionNum="3" place="03"></part>
+    <part number="5" directionNum="1" place="53"></part>
+  </card>
+  <card number="106">
+    <part number="8" directionNum="5" place="33"></part>
+    <part number="4" directionNum="2" place="62"></part>
+    <part number="2" directionNum="7" place="73"></part>
+  </card>
+  <card number="107">
+    <part number="9" directionNum="1" place="30"></part>
+    <part number="4" directionNum="2" place="52"></part>
+  </card>
+  <card number="108">
+    <part number="8" directionNum="5" place="11"></part>
+    <part number="4" directionNum="2" place="22"></part>
+  </card>
+  <card number="109">
+    <part number="8" directionNum="5" place="11"></part>
+    <part number="4" directionNum="5" place="63"></part>
+    <part number="9" directionNum="4" place="81"></part>
+  </card>
+  <card number="110">
+    <part number="1" directionNum="6" place="50"></part>
+    <part number="2" directionNum="7" place="03"></part>
+  </card>
+  <card number="111">
+    <part number="1" directionNum="8" place="02"></part>
+    <part number="9" directionNum="6" place="30"></part>
+  </card>
+  <card number="112">
+    <part number="1" directionNum="2" place="01"></part>
+    <part number="6" directionNum="8" place="51"></part>
+  </card>
+  <card number="113">
+    <part number="1" directionNum="3" place="43"></part>
+    <part number="6" directionNum="5" place="30"></part>
+  </card>
+  <card number="114">
+    <part number="1" directionNum="7" place="00"></part>
+    <part number="3" directionNum="7" place="20"></part>
+    <part number="6" directionNum="1" place="50"></part>
+    <part number="2" directionNum="8" place="80"></part>
+  </card>
+  <card number="115">
+    <part number="1" directionNum="7" place="41"></part>
+    <part number="2" directionNum="5" place="50"></part>
+  </card>
+  <card number="116">
+    <part number="1" directionNum="4" place="10"></part>
+    <part number="4" directionNum="3" place="00"></part>
+    <part number="6" directionNum="1" place="62"></part>
+  </card>
+  <card number="117">
+    <part number="6" directionNum="3" place="33"></part>
+    <part number="3" directionNum="5" place="30"></part>
+  </card>
+  <card number="118">
+    <part number="5" directionNum="5" place="03"></part>
+    <part number="6" directionNum="7" place="43"></part>
+  </card>
+  <card number="119">
+    <part number="1" directionNum="1" place="20"></part>
+    <part number="3" directionNum="7" place="43"></part>
+  </card>
+  <card number="120">
+    <part number="4" directionNum="6" place="21"></part>
+    <part number="7" directionNum="1" place="51"></part>
+  </card>
+</cards>
+
+
+
+
+
+
+
+<!--<solutions>
+  <solution number="1">
+    <part number="4" directionNum="2" place="0,0"></part>
+    <part number="3" directionNum="5" place="4,0"></part>
+    <part number="1" directionNum="5" place="8,0"></part>
+    <part number="6" directionNum="2" place="0,2"></part>
+    <part number="10" directionNum="2" place="4,1"></part>
+    <part number="2" directionNum="7" place="5,2"></part>
+    <part number="5" directionNum="5" place="0,3"></part>
+</solution>
+ <solution number="2">
+    <part number="1" directionNum="8" place="0,0"></part>
+    <part number="2" directionNum="1" place="1,0"></part>
+    <part number="10" directionNum="3" place="4,0"></part>
+    <part number="4" directionNum="5" place="0,2"></part>
+    <part number="9" directionNum="1" place="3,1"></part>
+    <part number="3" directionNum="3" place="5,2"></part>
+    <part number="7" directionNum="8" place="4,3"></part>
+    <part number="6" directionNum="6" place="8,2"></part>
+</solution>
+<solution number="3">
+    <part number="1" directionNum="5" place="1,1"></part>
+    <part number="3" directionNum="3" place="0,3"></part>
+    <part number="8" directionNum="7" place="5,0"></part>
+    <part number="7" directionNum="1" place="5,1"></part>
+    <part number="6" directionNum="3" place="3,2"></part>
+    <part number="4" directionNum="5" place="4,3"></part>
+    <part number="9" directionNum="4" place="8,0"></part>
+    <part number="2" directionNum="3" place="7,3"></part>
+</solution>
+<solution number="4">
+    <part number="7" directionNum="6" place="0,0"></part>
+    <part number="2" directionNum="3" place="4,0"></part>
+    <part number="3" directionNum="1" place="6,0"></part>
+    <part number="10" directionNum="2" place="0,1"></part>
+    <part number="6" directionNum="8" place="1,1"></part>
+    <part number="5" directionNum="7" place="2,2"></part>
+    <part number="4" directionNum="5" place="2,3"></part>
+    <part number="1" directionNum="3" place="6,2"></part>
+</solution>
+<solution number="5">
+    <part number="10" directionNum="3" place="0,0"></part>
+    <part number="9" directionNum="3" place="4,0"></part>
+    <part number="8" directionNum="3" place="6,0"></part>
+    <part number="1" directionNum="1" place="3,1"></part>
+    <part number="3" directionNum="7" place="5,2"></part>
+    <part number="5" directionNum="1" place="0,3"></part>
+    <part number="7" directionNum="8" place="4,3"></part>
+    <part number="4" directionNum="1" place="8,2"></part>
+</solution>
+<solution number="6">
+    <part number="10" directionNum="3" place="0,0"></part>
+    <part number="6" directionNum="3" place="0,1"></part>
+    <part number="2" directionNum="3" place="0,3"></part>
+    <part number="4" directionNum="1" place="2,1"></part>
+    <part number="7" directionNum="7" place="3,1"></part>
+    <part number="3" directionNum="4" place="5,1"></part>
+    <part number="9" directionNum="1" place="6,3"></part>
+    <part number="1" directionNum="5" place="7,0"></part>
+</solution>
+<solution number="7">
+    <part number="10" directionNum="7" place="0,0"></part>
+    <part number="3" directionNum="5" place="2,3"></part>
+    <part number="7" directionNum="1" place="1,1"></part>
+    <part number="8" directionNum="3" place="0,3"></part>
+    <part number="1" directionNum="1" place="4,2"></part>
+    <part number="5" directionNum="1" place="4,3"></part>
+    <part number="9" directionNum="4" place="8,0"></part>
+</solution>
+<solution number="8">
+    <part number="6" directionNum="1" place="0,0"></part>
+    <part number="3" directionNum="4" place="0,1"></part>
+    <part number="4" directionNum="1" place="1,2"></part>
+    <part number="7" directionNum="5" place="4,0"></part>
+    <part number="8" directionNum="3" place="3,3"></part>
+    <part number="2" directionNum="7" place="7,3"></part>
+    <part number="10" directionNum="8" place="8,0"></part>
+</solution>
+<solution number="9">
+    <part number="9" directionNum="5" place="0,1"></part>
+    <part number="4" directionNum="6" place="3,0"></part>
+    <part number="5" directionNum="3" place="4,0"></part>
+    <part number="8" directionNum="7" place="5,1"></part>
+    <part number="7" directionNum="1" place="5,2"></part>
+    <part number="3" directionNum="7" place="2,3"></part>
+    <part number="10" directionNum="1" place="6,3"></part>
+</solution>
+<solution number="10">
+    <part number="1" directionNum="2" place="0,2"></part>
+    <part number="5" directionNum="7" place="1,2"></part>
+    <part number="3" directionNum="3" place="1,3"></part>
+    <part number="9" directionNum="2" place="5,1"></part>
+    <part number="4" directionNum="1" place="6,2"></part>
+    <part number="6" directionNum="1" place="7,1"></part>
+    <part number="2" directionNum="2" place="8,2"></part>
+</solution>
+<solution number="11">
+    <part number="5" directionNum="7" place="0,0"></part>
+    <part number="8" directionNum="4" place="0,1"></part>
+    <part number="6" directionNum="3" place="1,1"></part>
+    <part number="7" directionNum="7" place="3,0"></part>
+    <part number="4" directionNum="6" place="5,0"></part>
+    <part number="2" directionNum="6" place="6,1"></part>
+    <part number="1" directionNum="4" place="8,1"></part>
+</solution>
+<solution number="12">
+    <part number="3" directionNum="5" place="1,0"></part>
+    <part number="5" directionNum="7" place="1,2"></part>
+    <part number="6" directionNum="2" place="4,0"></part>
+    <part number="1" directionNum="1" place="4,3"></part>
+    <part number="8" directionNum="6" place="0,1"></part>
+    <part number="4" directionNum="1" place="7,0"></part>
+    <part number="7" directionNum="7" place="8,0"></part>
+</solution>
+<solution number="13">
+    <part number="5" directionNum="3" place="2,0"></part>
+    <part number="10" directionNum="3" place="3,1"></part>
+    <part number="8" directionNum="1" place="4,2"></part>
+    <part number="7" directionNum="8" place="3,3"></part>
+    <part number="2" directionNum="1" place="6,3"></part>
+    <part number="3" directionNum="5" place="6,0"></part>
+    <part number="9" directionNum="4" place="8,1"></part>
+</solution>
+<solution number="14">
+    <part number="1" directionNum="3" place="0,0"></part>
+    <part number="7" directionNum="6" place="3,0"></part>
+    <part number="8" directionNum="1" place="2,1"></part>
+    <part number="3" directionNum="1" place="1,3"></part>
+    <part number="6" directionNum="1" place="4,2"></part>
+    <part number="2" directionNum="2" place="8,0"></part>
+</solution>
+<solution number="15">
+    <part number="5" directionNum="7" place="0,0"></part>
+    <part number="9" directionNum="2" place="0,1"></part>
+    <part number="3" directionNum="7" place="1,3"></part>
+    <part number="8" directionNum="5" place="1,1"></part>
+    <part number="10" directionNum="3" place="4,0"></part>
+    <part number="2" directionNum="6" place="4,1"></part>
+    <part number="4" directionNum="2" place="7,2"></part>
+</solution>
+<solution number="16">
+    <part number="9" directionNum="3" place="0,0"></part>
+    <part number="3" directionNum="4" place="0,1"></part>
+    <part number="2" directionNum="1" place="4,0"></part>
+    <part number="4" directionNum="6" place="4,1"></part>
+    <part number="7" directionNum="2" place="7,0"></part>
+    <part number="8" directionNum="8" place="8,0"></part>
+    <part number="1" directionNum="1" place="7,3"></part>
+</solution>
+<solution number="17">
+    <part number="9" directionNum="5" place="0,0"></part>
+    <part number="10" directionNum="1" place="0,3"></part>
+    <part number="7" directionNum="3" place="1,0"></part>
+    <part number="6" directionNum="2" place="1,1"></part>
+    <part number="2" directionNum="7" place="4,3"></part>
+    <part number="5" directionNum="3" place="5,0"></part>
+    <part number="1" directionNum="1" place="7,3"></part>
+</solution>
+<solution number="18">
+    <part number="8" directionNum="7" place="0,0"></part>
+    <part number="1" directionNum="1" place="1,3"></part>
+    <part number="4" directionNum="5" place="4,3"></part>
+    <part number="6" directionNum="3" place="3,0"></part>
+    <part number="3" directionNum="5" place="5,0"></part>
+    <part number="9" directionNum="4" place="8,0"></part>
+    <part number="2" directionNum="7" place="7,3"></part>
+</solution>
+<solution number="19">
+    <part number="1" directionNum="3" place="0,0"></part>
+    <part number="2" directionNum="3" place="3,0"></part>
+    <part number="6" directionNum="3" place="5,0"></part>
+    <part number="4" directionNum="1" place="7,1"></part>
+    <part number="3" directionNum="3" place="2,3"></part>
+    <part number="7" directionNum="8" place="6,3"></part>
+</solution>
+<solution number="20">
+    <part number="4" directionNum="6" place="0,0"></part>
+    <part number="1" directionNum="8" place="2,1"></part>
+    <part number="2" directionNum="8" place="5,0"></part>
+    <part number="8" directionNum="8" place="6,1"></part>
+    <part number="6" directionNum="3" place="8,3"></part>
+    <part number="5" directionNum="4" place="8,0"></part>
+</solution>
+<solution number="21">
+    <part number="1" directionNum="2" place="2,1"></part>
+    <part number="5" directionNum="1" place="0,3"></part>
+    <part number="6" directionNum="3" place="5,3"></part>
+    <part number="2" directionNum="1" place="7,3"></part>
+    <part number="10" directionNum="3" place="5,0"></part>
+    <part number="4" directionNum="5" place="7,0"></part>
+</solution>
+<solution number="22">
+    <part number="1" directionNum="3" place="0,2"></part>
+    <part number="6" directionNum="7" place="0,3"></part>
+    <part number="4" directionNum="6" place="3,2"></part>
+    <part number="3" directionNum="3" place="5,3"></part>
+    <part number="5" directionNum="6" place="5,1"></part>
+    <part number="10" directionNum="3" place="6,0"></part>
+</solution>
+<solution number="23">
+    <part number="7" directionNum="8" place="0,3"></part>
+    <part number="10" directionNum="6" place="2,2"></part>
+    <part number="5" directionNum="1" place="4,3"></part>
+    <part number="6" directionNum="4" place="6,1"></part>
+    <part number="8" directionNum="6" place="5,0"></part>
+    <part number="3" directionNum="2" place="8,0"></part>
+</solution>
+<solution number="24">
+    <part number="5" directionNum="3" place="2,0"></part>
+    <part number="10" directionNum="4" place="3,1"></part>
+    <part number="6" directionNum="4" place="5,1"></part>
+    <part number="3" directionNum="7" place="5,3"></part>
+    <part number="2" directionNum="8" place="8,0"></part>
+    <part number="8" directionNum="8" place="8,1"></part>
+</solution>
+<solution number="25">
+    <part number="1" directionNum="8" place="0,0"></part>
+    <part number="7" directionNum="1" place="0,3"></part>
+    <part number="8" directionNum="3" place="3,3"></part>
+    <part number="4" directionNum="1" place="4,0"></part>
+    <part number="8" directionNum="3" place="5,3"></part>
+    <part number="5" directionNum="4" place="8,1"></part>
+</solution>
+<solution number="26">
+    <part number="10" directionNum="2" place="0,0"></part>
+    <part number="2" directionNum="3" place="1,0"></part>
+    <part number="3" directionNum="3" place="0,3"></part>
+    <part number="4" directionNum="1" place="5,2"></part>
+    <part number="1" directionNum="3" place="7,0"></part>
+    <part number="8" directionNum="8" place="8,1"></part>
+</solution>
+<solution number="27">
+    <part number="8" directionNum="1" place="0,0"></part>
+    <part number="1" directionNum="1" place="0,3"></part>
+    <part number="7" directionNum="4" place="4,1"></part>
+    <part number="8" directionNum="2" place="6,1"></part>
+    <part number="6" directionNum="6" place="7,2"></part>
+    <part number="5" directionNum="4" place="8,1"></part>
+</solution>
+<solution number="28">
+    <part number="8" directionNum="3" place="1,1"></part>
+    <part number="6" directionNum="3" place="0,3"></part>
+    <part number="9" directionNum="3" place="2,3"></part>
+    <part number="4" directionNum="5" place="4,4"></part>
+    <part number="2" directionNum="2" place="5,0"></part>
+    <part number="5" directionNum="8" place="8,1"></part>
+</solution>
+<solution number="29">
+    <part number="2" directionNum="5" place="0,0"></part>
+    <part number="8" directionNum="6" place="3,1"></part>
+    <part number="7" directionNum="4" place="4,1"></part>
+    <part number="9" directionNum="3" place="3,0"></part>
+    <part number="6" directionNum="3" place="6,0"></part>
+    <part number="10" directionNum="4" place="8,0"></part>
+</solution>
+<solution number="30">
+    <part number="3" directionNum="1" place="0,0"></part>
+    <part number="8" directionNum="4" place="0,1"></part>
+    <part number="5" directionNum="2" place="4,0"></part>
+    <part number="6" directionNum="6" place="5,2"></part>
+    <part number="7" directionNum="3" place="6,0"></part>
+    <part number="1" directionNum="1" place="7,3"></part>
+</solution>
+<solution number="31">
+    <part number="3" directionNum="1" place="0,0"></part>
+    <part number="8" directionNum="4" place="0,1"></part>
+    <part number="7" directionNum="1" place="2,3"></part>
+    <part number="2" directionNum="7" place="6,3"></part>
+    <part number="5" directionNum="3" place="6,0"></part>
+    <part number="8" directionNum="7" place="8,1"></part>
+</solution>
+<solution number="32">
+    <part number="4" directionNum="6" place="0,2"></part>
+    <part number="1" directionNum="8" place="3,1"></part>
+    <part number="7" directionNum="3" place="2,0"></part>
+    <part number="3" directionNum="1" place="6,0"></part>
+    <part number="6" directionNum="6" place="7,2"></part>
+    <part number="5" directionNum="4" place="8,1"></part>
+</solution>
+<solution number="33">
+    <part number="2" directionNum="1" place="0,0"></part>
+    <part number="6" directionNum="5" place="1,2"></part>
+    <part number="5" directionNum="3" place="3,0"></part>
+    <part number="1" directionNum="2" place="4,1"></part>
+    <part number="3" directionNum="3" place="6,3"></part>
+    <part number="8" directionNum="2" place="8,0"></part>
+</solution>
+<solution number="34">
+    <part number="9" directionNum="2" place="0,0"></part>
+    <part number="6" directionNum="3" place="0,3"></part>
+    <part number="2" directionNum="1" place="2,3"></part>
+    <part number="3" directionNum="5" place="6,0"></part>
+    <part number="10" directionNum="1" place="6,1"></part>
+    <part number="4" directionNum="5" place="6,3"></part>
+</solution>
+<solution number="35">
+    <part number="5" directionNum="2" place="0,0"></part>
+    <part number="9" directionNum="1" place="0,3"></part>
+    <part number="2" directionNum="1" place="3,3"></part>
+    <part number="1" directionNum="4" place="4,0"></part>
+    <part number="10" directionNum="1" place="6,3"></part>
+    <part number="4" directionNum="1" place="8,0"></part>
+</solution>
+<solution number="36">
+    <part number="2" directionNum="1" place="0,0"></part>
+    <part number="9" directionNum="2" place="0,1"></part>
+    <part number="1" directionNum="1" place="3,3"></part>
+    <part number="6" directionNum="4" place="5,1"></part>
+    <part number="10" directionNum="2" place="8,1"></part>
+</solution>
+<solution number="37">
+    <part number="10" directionNum="3" place="0,0"></part>
+    <part number="8" directionNum="5" place="0,3"></part>
+    <part number="1" directionNum="3" place="3,3"></part>
+    <part number="2" directionNum="1" place="4,0"></part>
+    <part number="6" directionNum="2" place="8,2"></part>
+</solution>
+<solution number="38">
+    <part number="7" directionNum="6" place="0,0"></part>
+    <part number="8" directionNum="4" place="0,1"></part>
+    <part number="10" directionNum="1" place="2,3"></part>
+    <part number="1" directionNum="6" place="4,0"></part>
+    <part number="3" directionNum="4" place="6,1"></part>
+</solution>
+<solution number="39">
+    <part number="5" directionNum="7" place="0,0"></part>
+    <part number="6" directionNum="8" place="5,0"></part>
+    <part number="8" directionNum="3" place="0,3"></part>
+    <part number="3" directionNum="3" place="4,3"></part>
+    <part number="2" directionNum="6" place="8,2"></part>
+</solution>
+<solution number="40">
+    <part number="9" directionNum="3" place="0,0"></part>
+    <part number="6" directionNum="5" place="2,1"></part>
+    <part number="10" directionNum="4" place="4,0"></part>
+    <part number="2" directionNum="4" place="6,1"></part>
+    <part number="7" directionNum="3" place="6,0"></part>
+</solution>
+<solution number="41">
+    <part number="4" directionNum="6" place="0,0"></part>
+    <part number="3" directionNum="3" place="2,3"></part>
+    <part number="6" directionNum="8" place="3,0"></part>
+    <part number="10" directionNum="2" place="6,1"></part>
+    <part number="7" directionNum="4" place="8,1"></part>
+</solution>
+<solution number="42">
+    <part number="1" directionNum="1" place="0,3"></part>
+    <part number="6" directionNum="4" place="3,2"></part>
+    <part number="5" directionNum="7" place="4,2"></part>
+    <part number="4" directionNum="5" place="5,0"></part>
+    <part number="2" directionNum="8" place="8,0"></part>
+</solution>
+<solution number="43">
+    <part number="6" directionNum="1" place="0,0"></part>
+    <part number="8" directionNum="4" place="0,1"></part>
+    <part number="3" directionNum="7" place="3,3"></part>
+    <part number="10" directionNum="3" place="3,0"></part>
+    <part number="7" directionNum="6" place="4,1"></part>
+</solution>
+<solution number="44">
+    <part number="2" directionNum="8" place="0,0"></part>
+    <part number="9" directionNum="3" place="2,0"></part>
+    <part number="1" directionNum="5" place="3,1"></part>
+    <part number="10" directionNum="3" place="6,0"></part>
+    <part number="8" directionNum="2" place="8,1"></part>
+</solution>
+<solution number="45">
+    <part number="7" directionNum="2" place="0,0"></part>
+    <part number="5" directionNum="3" place="3,0"></part>
+    <part number="8" directionNum="3" place="2,3"></part>
+    <part number="6" directionNum="8" place="7,0"></part>
+    <part number="3" directionNum="2" place="8,0"></part>
+</solution>
+<solution number="46">
+    <part number="9" directionNum="1" place="2,0"></part>
+    <part number="7" directionNum="3" place="2,2"></part>
+    <part number="10" directionNum="4" place="5,0"></part>
+    <part number="3" directionNum="8" place="7,0"></part>
+</solution>
+<solution number="47">
+    <part number="3" directionNum="6" place="1,1"></part>
+    <part number="7" directionNum="1" place="4,1"></part>
+    <part number="9" directionNum="3" place="4,3"></part>
+    <part number="5" directionNum="1" place="6,3"></part>
+</solution>
+<solution number="48">
+    <part number="9" directionNum="2" place="0,0"></part>
+    <part number="8" directionNum="7" place="3,2"></part>
+    <part number="7" directionNum="6" place="6,0"></part>
+    <part number="1" directionNum="6" place="8,2"></part>
+</solution>
+<solution number="49">
+    <part number="7" directionNum="8" place="0,1"></part>
+    <part number="5" directionNum="2" place="4,1"></part>
+    <part number="1" directionNum="2" place="8,1"></part>
+</solution>
+<solution number="50">
+    <part number="4" directionNum="6" place="0,0"></part>
+    <part number="6" directionNum="5" place="2,2"></part>
+    <part number="5" directionNum="3" place="5,2"></part>
+    <part number="9" directionNum="3" place="6,0"></part>
+</solution>
+<solution number="51">
+    <part number="4" directionNum="6" place="0,0"></part>
+    <part number="6" directionNum="1" place="3,2"></part>
+    <part number="3" directionNum="5" place="6,0"></part>
+    <part number="5" directionNum="3" place="1,0"></part>
+</solution>
+<solution number="52">
+    <part number="7" directionNum="8" place="0,1"></part>
+    <part number="5" directionNum="3" place="4,1"></part>
+    <part number="1" directionNum="6" place="5,2"></part>
+</solution>
+<solution number="53">
+    <part number="4" directionNum="6" place="0,0"></part>
+    <part number="6" directionNum="1" place="3,0"></part>
+    <part number="3" directionNum="7" place="4,3"></part>
+    <part number="10" directionNum="4" place="8,0"></part>
+</solution>
+<solution number="54">
+    <part number="1" directionNum="2" place="0,0"></part>
+    <part number="8" directionNum="1" place="0,3"></part>
+    <part number="9" directionNum="1" place="2,3"></part>
+    <part number="10" directionNum="1" place="6,3"></part>
+    <part number="7" directionNum="1" place="5,2"></part>
+    <part number="4" directionNum="1" place="8,0"></part>
+</solution>
+<solution number="55">
+    <part number="5" directionNum="8" place="1,1"></part>
+    <part number="7" directionNum="4" place="4,1"></part>
+    <part number="9" directionNum="4" place="8,1"></part>
+    <part number="10" directionNum="1" place="5,3"></part>
+</solution>
+<solution number="56">
+    <part number="3" directionNum="8" place="0,1"></part>
+    <part number="4" directionNum="6" place="4,2"></part>
+    <part number="1" directionNum="7" place="6,1"></part>
+    <part number="5" directionNum="1" place="6,3"></part>
+</solution>
+<solution number="57">
+    <part number="8" directionNum="3" place="1,3"></part>
+    <part number="4" directionNum="6" place="5,2"></part>
+    <part number="1" directionNum="1" place="7,3"></part>
+</solution>
+<solution number="58">
+    <part number="6" directionNum="3" place="1,1"></part>
+    <part number="1" directionNum="4" place="4,2"></part>
+    <part number="9" directionNum="1" place="4,3"></part>
+    <part number="2" directionNum="6" place="8,2"></part>
+</solution>
+<solution number="59">
+    <part number="7" directionNum="1" place="3,3"></part>
+    <part number="3" directionNum="1" place="4,2"></part>
+    <part number="10" directionNum="3" place="3,1"></part>
+</solution>
+<solution number="60">
+    <part number="6" directionNum="8" place="2,1"></part>
+    <part number="1" directionNum="4" place="3,1"></part>
+    <part number="3" directionNum="3" place="6,1"></part>
+</solution>
+<solution number="61">
+    <part number="2" directionNum="5" place="4,1"></part>
+    <part number="6" directionNum="3" place="1,1"></part>
+    <part number="5" directionNum="1" place="6,3"></part>
+</solution>
+<solution number="62">
+    <part number="2" directionNum="7" place="1,1"></part>
+    <part number="7" directionNum="5" place="4,1"></part>
+    <part number="3" directionNum="1" place="5,2"></part>
+</solution>
+<solution number="63">
+    <part number="2" directionNum="6" place="2,2"></part>
+    <part number="4" directionNum="5" place="4,3"></part>
+    <part number="6" directionNum="6" place="8,2"></part>
+</solution>
+<solution number="64">
+    <part number="2" directionNum="4" place="7,1"></part>
+    <part number="6" directionNum="4" place="0,2"></part>
+    <part number="1" directionNum="6" place="0,0"></part>
+    <part number="10" directionNum="4" place="8,0"></part>
+    <part number="3" directionNum="3" place="6,3"></part>
+</solution>
+<solution number="65">
+    <part number="1" directionNum="8" place="0,0"></part>
+    <part number="8" directionNum="7" place="1,0"></part>
+    <part number="3" directionNum="2" place="3,2"></part>
+    <part number="6" directionNum="7" place="6,1"></part>
+</solution>
+<solution number="66">
+    <part number="1" directionNum="5" place="0,3"></part>
+    <part number="9" directionNum="3" place="1,1"></part>
+    <part number="4" directionNum="5" place="4,1"></part>
+</solution>
+<solution number="67">
+    <part number="9" directionNum="8" place="1,1"></part>
+    <part number="10" directionNum="3" place="5,2"></part>
+    <part number="5" directionNum="4" place="8,1"></part>
+</solution>
+<solution number="68">
+    <part number="2" directionNum="7" place="3,3"></part>
+    <part number="3" directionNum="1" place="3,2"></part>
+    <part number="1" directionNum="3" place="5,3"></part>
+</solution>
+<solution number="69">
+    <part number="7" directionNum="5" place="0,1"></part>
+    <part number="2" directionNum="6" place="8,0"></part>
+</solution>
+<solution number="70">
+    <part number="2" directionNum="7" place="0,3"></part>
+    <part number="6" directionNum="4" place="3,2"></part>
+    <part number="3" directionNum="7" place="5,3"></part>
+</solution>
+<solution number="71">
+    <part number="6" directionNum="3" place="4,2"></part>
+    <part number="2" directionNum="8" place="7,1"></part>
+    <part number="5" directionNum="1" place="5,3"></part>
+    <part number="4" directionNum="8" place="8,2"></part>
+</solution>
+<solution number="72">
+    <part number="10" directionNum="6" place="1,1"></part>
+    <part number="5" directionNum="1" place="4,3"></part>
+    <part number="1" directionNum="8" place="8,2"></part>
+</solution>
+<solution number="73">
+    <part number="6" directionNum="3" place="1,1"></part>
+    <part number="8" directionNum="5" place="1,3"></part>
+    <part number="3" directionNum="7" place="5,3"></part>
+</solution>
+<solution number="74">
+    <part number="2" directionNum="2" place="2,1"></part>
+    <part number="3" directionNum="3" place="5,3"></part>
+    <part number="5" directionNum="4" place="8,1"></part>
+</solution>
+<solution number="75">
+    <part number="1" directionNum="1" place="7,3"></part>
+    <part number="8" directionNum="8" place="8,0"></part>
+    <part number="2" directionNum="7" place="4,1"></part>
+    <part number="6" directionNum="3" place="0,3"></part>
+</solution>
+<solution number="76">
+    <part number="4" directionNum="6" place="0,0"></part>
+    <part number="1" directionNum="8" place="5,1"></part>
+    <part number="8" directionNum="2" place="0,3"></part>
+    <part number="5" directionNum="4" place="8,0"></part>
+</solution>
+<solution number="77">
+    <part number="1" directionNum="7" place="2,3"></part>
+    <part number="5" directionNum="2" place="0,1"></part>
+    <part number="2" directionNum="6" place="5,2"></part>
+    <part number="6" directionNum="4" place="7,1"></part>
+</solution>
+<solution number="78">
+    <part number="1" directionNum="6" place="0,0"></part>
+    <part number="9" directionNum="6" place="2,0"></part>
+    <part number="7" directionNum="5" place="6,0"></part>
+    <part number="10" directionNum="4" place="8,0"></part>
+</solution>
+<solution number="79">
+    <part number="4" directionNum="5" place="3,3"></part>
+    <part number="2" directionNum="3" place="0,3"></part>
+    <part number="6" directionNum="3" place="0,2"></part>
+</solution>
+<solution number="80">
+    <part number="8" directionNum="7" place="1,2"></part>
+    <part number="4" directionNum="6" place="5,1"></part>
+    <part number="6" directionNum="3" place="6,1"></part>
+</solution>
+<solution number="81">
+    <part number="3" directionNum="5" place="2,2"></part>
+    <part number="10" directionNum="6" place="2,3"></part>
+    <part number="8" directionNum="8" place="8,0"></part>
+</solution>
+<solution number="82">
+    <part number="5" directionNum="8" place="2,0"></part>
+    <part number="10" directionNum="5" place="4,2"></part>
+</solution>
+<solution number="83">
+    <part number="3" directionNum="1" place="5,0"></part>
+    <part number="2" directionNum="1" place="4,2"></part>
+</solution>
+<solution number="84">
+    <part number="1" directionNum="3" place="2,1"></part>
+    <part number="7" directionNum="1" place="0,3"></part>
+    <part number="8" directionNum="5" place="6,3"></part>
+</solution>
+<solution number="85">
+    <part number="5" directionNum="8" place="4,1"></part>
+    <part number="10" directionNum="2" place="5,1"></part>
+    <part number="6" directionNum="4" place="6,1"></part>
+</solution>
+<solution number="86">
+    <part number="6" directionNum="3" place="2,2"></part>
+    <part number="1" directionNum="3" place="3,0"></part>
+</solution>
+<solution number="87">
+    <part number="6" directionNum="3" place="0,3"></part>
+    <part number="3" directionNum="1" place="2,3"></part>
+    <part number="7" directionNum="8" place="4,1"></part>
+</solution>
+<solution number="88">
+    <part number="1" directionNum="3" place="1,2"></part>
+    <part number="2" directionNum="3" place="0,3"></part>
+    <part number="7" directionNum="1" place="3,3"></part>
+</solution>
+<solution number="89">
+    <part number="6" directionNum="3" place="0,3"></part>
+    <part number="2" directionNum="7" place="4,3"></part>
+    <part number="4" directionNum="5" place="7,3"></part>
+</solution>
+<solution number="90">
+    <part number="7" directionNum="5" place="0,0"></part>
+    <part number="4" directionNum="1" place="7,1"></part>
+</solution>
+<solution number="91">
+    <part number="10" directionNum="6" place="3,3"></part>
+    <part number="6" directionNum="1" place="6,2"></part>
+    <part number="1" directionNum="5" place="7,3"></part>
+</solution>
+ <solution number="92">
+    <part number="6" directionNum="2" place="1,1"></part>
+    <part number="1" directionNum="4" place="5,0"></part>
+</solution>
+<solution number="93">
+    <part number="6" directionNum="8" place="3,1"></part>
+    <part number="9" directionNum="4" place="5,0"></part>
+</solution>
+<solution number="94">
+    <part number="9" directionNum="3" place="1,0"></part>
+    <part number="5" directionNum="1" place="4,2"></part>
+</solution>
+<solution number="95">
+    <part number="7" directionNum="5" place="3,0"></part>
+    <part number="1" directionNum="7" place="4,1"></part>
+</solution>
+<solution number="96">
+    <part number="6" directionNum="1" place="2,1"></part>
+    <part number="7" directionNum="8" place="0,3"></part>
+    <part number="1" directionNum="4" place="7,1"></part>
+</solution>
+<solution number="97">
+    <part number="4" directionNum="6" place="4,1"></part>
+    <part number="1" directionNum="1" place="6,1"></part>
+</solution>
+<solution number="98">
+    <part number="2" directionNum="5" place="2,2"></part>
+    <part number="3" directionNum="4" place="5,0"></part>
+</solution>
+<solution number="99">
+    <part number="4" directionNum="6" place="0,2"></part>
+    <part number="3" directionNum="3" place="3,3"></part>
+    <part number="1" directionNum="5" place="7,3"></part> 
+</solution>
+<solution>
+    <part number="9" directionNum="2" place="0,1"></part>
+    <part number="1" directionNum="1" place="1,3"></part>
+    <part number="6" directionNum="3" place="7,3"></part> 
+</solution>
+<solution number="101">
+    <part number="8" directionNum="5" place="3,0"></part>
+    <part number="5" directionNum="1" place="3,3"></part> 
+</solution>
+<solution number="102">
+    <part number="4" directionNum="5" place="2,1"></part>
+    <part number="1" directionNum="7" place="5,2"></part> 
+</solution>
+<solution number="103">
+    <part number="7" directionNum="1" place="1,0"></part>
+    <part number="10" directionNum="6" place="6,3"></part> 
+</solution>
+<solution number="104">
+    <part number="7" directionNum="8" place="1,1"></part>
+    <part number="6" directionNum="3" place="4,2"></part> 
+</solution>
+<solution number="105">
+    <part number="7" directionNum="8" place="3,1"></part>
+    <part number="6" directionNum="3" place="0,3"></part>
+    <part number="5" directionNum="1" place="5,3"></part> 
+</solution>
+<solution number="106">
+    <part number="8" directionNum="5" place="3,3"></part>
+    <part number="4" directionNum="2" place="6,2"></part>
+    <part number="2" directionNum="7" place="7,3"></part> 
+</solution>
+<solution number="107">
+    <part number="9" directionNum="1" place="3,0"></part>
+    <part number="4" directionNum="2" place="5,2"></part> 
+</solution>
+<solution number="108">
+    <part number="8" directionNum="5" place="1,1"></part>
+    <part number="4" directionNum="2" place="2,2"></part> 
+</solution>
+<solution number="109">
+    <part number="8" directionNum="5" place="1,1"></part>
+    <part number="4" directionNum="5" place="6,3"></part>
+    <part number="9" directionNum="4" place="8,1"></part> 
+</solution>
+<solution number="110">
+    <part number="1" directionNum="6" place="5,0"></part>
+    <part number="2" directionNum="7" place="0,3"></part> 
+</solution>
+<solution number="111">
+    <part number="1" directionNum="8" place="0,2"></part>
+    <part number="9" directionNum="6" place="3,0"></part> 
+</solution>
+<solution number="112">
+    <part number="1" directionNum="2" place="0,1"></part>
+    <part number="6" directionNum="8" place="5,1"></part> 
+</solution>
+<solution number="113">
+    <part number="1" directionNum="3" place="4,3"></part>
+    <part number="6" directionNum="5" place="3,0"></part> 
+</solution>
+<solution number="114">
+    <part number="1" directionNum="7" place="0,0"></part>
+    <part number="3" directionNum="7" place="2,0"></part> 
+    <part number="6" directionNum="1" place="5,0"></part>
+    <part number="2" directionNum="8" place="8,0"></part> 
+</solution>
+<solution number="115">
+    <part number="1" directionNum="7" place="4,1"></part>
+    <part number="2" directionNum="5" place="5,0"></part> 
+</solution>
+<solution number="116">
+    <part number="1" directionNum="4" place="1,0"></part>
+    <part number="4" directionNum="3" place="0,0"></part> 
+    <part number="6" directionNum="1" place="6,2"></part> 
+</solution>
+<solution number="117">
+    <part number="6" directionNum="3" place="3,3"></part>
+    <part number="3" directionNum="5" place="3,0"></part> 
+</solution>
+<solution number="118">
+    <part number="5" directionNum="5" place="0,3"></part>
+    <part number="6" directionNum="7" place="4,3"></part> 
+</solution>
+<solution number="119">
+    <part number="1" directionNum="1" place="2,0"></part>
+    <part number="3" directionNum="7" place="4,3"></part> 
+</solution>
+<solution number="120">
+    <part number="4" directionNum="6" place="2,1"></part>
+    <part number="7" directionNum="1" place="5,1"></part> 
+</solution>
+</solutions>-->
+

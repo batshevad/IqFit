@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<parts>
+  <part number="1" color="dark green" >
+    <direction directionNum="1" dr="8010111000"></direction>
+    <direction directionNum="2" dr="8100110100"></direction>
+    <direction directionNum="3" dr="8111010000"></direction>
+    <direction directionNum="4" dr="8001011001"></direction>
+    <direction directionNum="5" dr="8011111000"></direction>
+    <direction directionNum="6" dr="8110110010"></direction>
+    <direction directionNum="7" dr="8111110000"></direction>
+    <direction directionNum="8" dr="8100110110"></direction>
+  </part>
+  <part number="2" color="purple" >
+    <direction directionNum="1" dr="8111011000"></direction>
+    <direction directionNum="2" dr="8010110110"></direction>
+    <direction directionNum="3" dr="8110111000"></direction>
+    <direction directionNum="4" dr="8110110100"></direction>
+    <direction directionNum="5" dr="8111001000"></direction>
+    <direction directionNum="6" dr="8010010110"></direction>
+    <direction directionNum="7" dr="8100111000"></direction>
+    <direction directionNum="8" dr="8110100100"></direction>
+  </part>
+  <part number="3" color="light azure">
+    <direction directionNum="1" dr="81111010000000000"></direction>
+    <direction directionNum="2" dr="80100110001000100"></direction>
+    <direction directionNum="3" dr="80010111100000000"></direction>
+    <direction directionNum="4" dr="81000100011001000"></direction>
+    <direction directionNum="5" dr="81111011000000000"></direction>
+    <direction directionNum="6" dr="80100110011000100"></direction>
+    <direction directionNum="7" dr="80110111100000000"></direction>
+    <direction directionNum="8" dr="81000110011001000"></direction>
+  </part>
+  <part number="4" color="light green" >
+    <direction directionNum="1" dr="8110010110"></direction>
+    <direction directionNum="2" dr="8111101000"></direction>
+    <direction directionNum="3" dr="8110100110"></direction>
+    <direction directionNum="4" dr="8101111000"></direction>
+    <direction directionNum="5" dr="8001111000"></direction>
+    <direction directionNum="6" dr="8100100110"></direction>
+    <direction directionNum="7" dr="8111100000"></direction>
+    <direction directionNum="8" dr="8110010010"></direction>
+  </part>
+  <part number="5" color="azure" >
+    <direction directionNum="1" dr="80001111100000000"></direction>
+    <direction directionNum="2" dr="81000100010001100"></direction>
+    <direction directionNum="3" dr="81111100000000000"></direction>
+    <direction directionNum="4" dr="81100010001000100"></direction>
+    <direction directionNum="5" dr="81010111100000000"></direction>
+    <direction directionNum="6" dr="81100100011001000"></direction>
+    <direction directionNum="7" dr="81111010100000000"></direction>
+    <direction directionNum="8" dr="80001001100010011"></direction>
+  </part>
+  <part number="6" color="blue" >
+    <direction directionNum="1" dr="8111010000"></direction>
+    <direction directionNum="2" dr="8010110010"></direction>
+    <direction directionNum="3" dr="8010111000"></direction>
+    <direction directionNum="4" dr="8100110100"></direction>
+    <direction directionNum="5" dr="8111101000"></direction>
+    <direction directionNum="6" dr="8110010110"></direction>
+    <direction directionNum="7" dr="8101111000"></direction>
+    <direction directionNum="8" dr="8110100110"></direction>
+  </part>
+  <part number="7" color="yellow" >
+    <direction directionNum="1" dr="81100111100000000"></direction>
+    <direction directionNum="2" dr="81100110010001000"></direction>
+    <direction directionNum="3" dr="81111001100000000"></direction>
+    <direction directionNum="4" dr="80100010011001100"></direction>
+    <direction directionNum="5" dr="81100100010001000"></direction>
+    <direction directionNum="6" dr="81111000100000000"></direction>
+    <direction directionNum="7" dr="80100010001001100"></direction>
+    <direction directionNum="8" dr="81000111100000000"></direction>
+  </part>
+  <part number="8" color="pink" >
+    <direction directionNum="1" dr="81111110000000000"></direction>
+    <direction directionNum="2" dr="81100110001000100"></direction>
+    <direction directionNum="3" dr="80011111100000000"></direction>
+    <direction directionNum="4" dr="81000100011001100"></direction>
+    <direction directionNum="5" dr="80100111100000000"></direction>
+    <direction directionNum="6" dr="81000110010001000"></direction>
+    <direction directionNum="7" dr="81111001000000000"></direction>
+    <direction directionNum="8" dr="80100010011000100"></direction>
+  </part>
+  <part number="9" color="orange" >
+    <direction directionNum="1" dr="80010111100000000"></direction>
+    <direction directionNum="2" dr="81000100011001000"></direction>
+    <direction directionNum="3" dr="81111010000000000"></direction>
+    <direction directionNum="4" dr="80100110001000100"></direction>
+    <direction directionNum="5" dr="81000110010001100"></direction>
+    <direction directionNum="6" dr="81111101000000000"></direction>
+    <direction directionNum="7" dr="81100010011000100"></direction>
+    <direction directionNum="8" dr="80101111100000000"></direction>
+  </part>
+  <part number="10" color="red" >
+    <direction directionNum="1" dr="80001111100000000"></direction>
+    <direction directionNum="2" dr="81000100010001100"></direction>
+    <direction directionNum="3" dr="81111100000000000"></direction>
+    <direction directionNum="4" dr="81100010001000100"></direction>
+    <direction directionNum="5" dr="81111100100000000"></direction>
+    <direction directionNum="6" dr="81001111100000000"></direction>
+    <direction directionNum="7" dr="81100100010001100"></direction>
+    <direction directionNum="8" dr="81100010001001100"></direction>
+  </part>
+</parts>
+

@@ -1,0 +1,38 @@
+﻿<Window x:Class="iq_project.HintMessageBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:iq_project"
+        mc:Ignorable="d"
+        Title="HintMessageBox" Height="151" Width="303">
+    <Grid Name="HMBGrid">
+        <Button Content="O K" FontFamily="Showcard Gothic" HorizontalAlignment="Left" Margin="154,66,0,0" VerticalAlignment="Top" Width="44" FontSize="18" Click="Button_Click" Height="43">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Stroke="Black" 
+                         StrokeThickness="2">
+                            <Ellipse.Fill>
+                                <RadialGradientBrush>
+                                    <GradientStop Color="#FF0A0000" Offset="1"/>
+                                    <GradientStop Color="#FF6E6007" Offset="0.925"/>
+                                    <GradientStop Color="#FF998B14" Offset="0.833"/>
+                                    <GradientStop Color="#FFC2C31B" Offset="0.754"/>
+                                    <GradientStop Color="#FFD7D833" Offset="0.658"/>
+                                    <GradientStop Color="#FFE6E253" Offset="0.577"/>
+                                    <GradientStop Color="#FFE1E676" Offset="0.459"/>
+                                    <GradientStop Color="#FFEEE48E" Offset="0.349"/>
+                                </RadialGradientBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <ContentPresenter HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Label Name="HintLabel" FontFamily="Showcard Gothic" HorizontalAlignment="Left" Margin="10,19,0,0" VerticalAlignment="Top" Width="275" Height="28"/>
+
+    </Grid>
+</Window>

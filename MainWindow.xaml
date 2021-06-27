@@ -1,0 +1,52 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+          xmlns:local="clr-namespace:iq_project" x:Class="iq_project.MainWindow"
+          Title="MainWindow" Height="650" Width="650">
+    <Grid x:Name="g">
+        <Grid.Background>
+            <ImageBrush ImageSource="image/1.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="250"/>
+            <RowDefinition Height="350"/>
+        </Grid.RowDefinitions>
+        <Label Content="Label" Background="Black" HorizontalAlignment="Left" Margin="0,239,0,340" Width="642" Grid.RowSpan="2" />
+        <Label Name="labeltimer" HorizontalAlignment="Left" Height="70"  Margin="518,10,0,0" VerticalAlignment="Top" Width="124" FontSize="27" FontWeight="UltraBlack" RenderTransformOrigin="0.187,0.457"  >
+            <Label.Foreground>
+                <RadialGradientBrush>
+                    <RadialGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                            <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                            <RotateTransform Angle="-178.814" CenterY="0.2" CenterX="0.6"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadialGradientBrush.RelativeTransform>
+                    <GradientStop Color="#FF447EFF" Offset="0.943"/>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="DarkBlue" Offset="0.087"/>
+                </RadialGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Label Name="levelLabel" Content="Label"  HorizontalAlignment="Center" Margin="554,145,0,0" VerticalAlignment="Top" Width="88" Height="129" FontSize="24" FontWeight="UltraBlack" RenderTransformOrigin="0.187,0.457" Grid.RowSpan="2" >
+            <Label.Foreground>
+                <RadialGradientBrush>
+                    <RadialGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                            <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                            <RotateTransform Angle="-178.814" CenterY="0.2" CenterX="0.6"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </RadialGradientBrush.RelativeTransform>
+                    <GradientStop Color="DarkBlue"/>
+                </RadialGradientBrush>
+            </Label.Foreground>
+        </Label>
+
+        <Button Content="x" Click="Button_Click_X" Margin="618,0,0,232" FontSize="8"  FontFamily="Showcard Gothic" Background="Red"/>
+        <Button Content="hint" HorizontalAlignment="Left" Margin="564,110,0,0" FontFamily="Showcard Gothic" Background="{x:Null}" FontSize="19" VerticalAlignment="Top" Width="68" Height="30" RenderTransformOrigin="0.559,0.267" Click="Button_Click_Hint"/>
+
+    </Grid>
+</Window>
